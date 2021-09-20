@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id recyclerView
+id toolbar
+layout fragment_currency_switcher
+layout view_holder_currency_switcher_footer
+string SettingsCurrency_InfoText
+string SettingsCurrency_Title

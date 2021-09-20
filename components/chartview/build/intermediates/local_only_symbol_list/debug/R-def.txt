@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+attr? cursorColor
+attr? curvePressedColor
+attr? gridColor
+attr? gridDashColor
+attr? gridTextColor
+attr? partialChartColor
+attr? timelineTextColor
+attr? trendDownColor
+attr? trendUpColor
+drawable chart_indicator_background
+id chartBottom
+id chartError
+id chartMain
+id chartTimeline
+id chartTouch
+id chartViewSpinner
+id coinChartView
+id loadingShade
+id stateIcon
+id title
+id trendText
+layout chart_indicator_view
+layout view_chart
+string Charts_Trend_Down
+string Charts_Trend_Neutral
+string Charts_Trend_Up
+styleable Chart cursorColor curvePressedColor gridColor gridTextColor gridDashColor timelineTextColor trendUpColor trendDownColor partialChartColor

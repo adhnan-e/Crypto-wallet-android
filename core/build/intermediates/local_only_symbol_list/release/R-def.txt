@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+string Duration_Hours
+string Duration_Minutes
+string Duration_Seconds
+string Duration_Within
+string Duration_instant
+string Timestamp_HoursAgo
+string Timestamp_JustNow
+string Timestamp_MinAgo
+string Timestamp_Today
+string Timestamp_Yesterday

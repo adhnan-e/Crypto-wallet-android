@@ -1,0 +1,2 @@
+io/horizontalsystems/snackbar/BuildConfig.java
+ io.horizontalsystems.snackbar.BuildConfig

@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id snackbarContentLayout
+id snackbarProgressbar
+id snackbarText
+layout view_custom_snackbar

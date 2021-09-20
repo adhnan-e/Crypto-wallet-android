@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+id attention
+id noSystemLockWarning
+id textView
+layout activity_keystore
+string Alert_CustomKeyboardIsUsed
+string Alert_KeysInvalidatedDescription
+string Alert_KeysInvalidatedTitle
+string Alert_NoDeviceLockDescription
+string Alert_Ok
+string Alert_TitleWarning
+string OSPin_Confirm_Desciption
+string OSPin_Confirm_Title
+string OSPin_Prompt_Desciption

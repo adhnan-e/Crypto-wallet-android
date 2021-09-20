@@ -1,0 +1,2 @@
+io/horizontalsystems/languageswitcher/BuildConfig.java
+ io.horizontalsystems.languageswitcher.BuildConfig

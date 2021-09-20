@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SettingsCurrency_InfoText">Wechselkurse in Echtzeit und historische Kurse werden von CryptoCompare.com bereitgestellt</string>
+    <string name="SettingsCurrency_Title">Währung</string>
+</resources>

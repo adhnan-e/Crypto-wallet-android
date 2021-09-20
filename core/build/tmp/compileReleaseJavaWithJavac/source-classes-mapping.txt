@@ -1,0 +1,9 @@
+io/horizontalsystems/core/BuildConfig.java
+ io.horizontalsystems.core.BuildConfig
+io/horizontalsystems/core/fragment/NavHostFragment.java
+ io.horizontalsystems.core.fragment.NavHostFragment
+io/horizontalsystems/core/fragment/FragmentNavigator.java
+ io.horizontalsystems.core.fragment.FragmentNavigator
+ io.horizontalsystems.core.fragment.FragmentNavigator$Destination
+ io.horizontalsystems.core.fragment.FragmentNavigator$Extras
+ io.horizontalsystems.core.fragment.FragmentNavigator$Extras$Builder

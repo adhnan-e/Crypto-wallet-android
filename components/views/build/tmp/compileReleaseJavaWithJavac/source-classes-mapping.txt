@@ -1,0 +1,2 @@
+io/horizontalsystems/views/BuildConfig.java
+ io.horizontalsystems.views.BuildConfig

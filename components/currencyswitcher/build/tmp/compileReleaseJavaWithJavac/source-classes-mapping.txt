@@ -1,0 +1,2 @@
+io/horizontalsystems/currencyswitcher/BuildConfig.java
+ io.horizontalsystems.currencyswitcher.BuildConfig

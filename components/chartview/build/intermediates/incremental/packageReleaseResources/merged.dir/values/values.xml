@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Charts_Trend_Down">Down Trend</string>
+    <string name="Charts_Trend_Neutral">Neutral</string>
+    <string name="Charts_Trend_Up">Up Trend</string>
+    <declare-styleable name="Chart">
+        <attr format="color" name="cursorColor"/>
+        <attr format="color" name="curvePressedColor"/>
+        <attr format="color" name="gridColor"/>
+        <attr format="color" name="gridTextColor"/>
+        <attr format="color" name="gridDashColor"/>
+        <attr format="color" name="timelineTextColor"/>
+        <attr format="color" name="trendUpColor"/>
+        <attr format="color" name="trendDownColor"/>
+        <attr format="color" name="partialChartColor"/>
+    </declare-styleable>
+</resources>

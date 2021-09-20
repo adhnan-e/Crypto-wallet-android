@@ -1,0 +1,2 @@
+io/horizontalsystems/pin/BuildConfig.java
+ io.horizontalsystems.pin.BuildConfig

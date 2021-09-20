@@ -1,0 +1,2 @@
+io/horizontalsystems/seekbar/BuildConfig.java
+ io.horizontalsystems.seekbar.BuildConfig

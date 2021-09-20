@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK
+        </item>
+    </string-array>
+    <attr format="reference|color" name="AboutBackgroundColor"/>
+    <attr format="reference|color" name="AddCoinButtonPlaceholder"/>
+    <attr format="reference|color" name="AddressBackground"/>
+    <attr format="reference|color" name="BallanceCoinAmountColor"/>
+    <attr format="reference|color" name="BallanceCoinNameColor"/>
+    <attr format="reference|color" name="BottomDialogTextColor"/>
+    <attr format="reference" name="BottomNavBackground"/>
+    <attr format="reference|color" name="BottomNavigationBackgroundColor"/>
+    <attr format="reference|color" name="BottomSendButtonColor"/>
+    <attr format="reference|color" name="BottomSendButtonHighlightedColor"/>
+    <attr format="reference|color" name="BottomSendImageButtonTint"/>
+    <attr format="reference" name="CoinItemBackground"/>
+    <attr format="reference|color" name="ColorBran"/>
+    <attr format="reference|color" name="ColorClaude"/>
+    <attr format="reference|color" name="ColorElena"/>
+    <attr format="reference" name="ColorGradientWhite"/>
+    <attr format="reference" name="ColorGwen"/>
+    <attr format="reference|color" name="ColorJacob"/>
+    <attr format="reference|color" name="ColorJacobPressed"/>
+    <attr format="reference|color" name="ColorJeremy"/>
+    <attr format="reference|color" name="ColorLawrence"/>
+    <attr format="reference|color" name="ColorLawrencePressed"/>
+    <attr format="reference|color" name="ColorLeah"/>
+    <attr format="reference|color" name="ColorLucian"/>
+    <attr format="reference|color" name="ColorLucianPressed"/>
+    <attr format="reference" name="ColorNina"/>
+    <attr format="reference|color" name="ColorOz"/>
+    <attr format="reference" name="ColorRaina"/>
+    <attr format="reference|color" name="ColorRemus"/>
+    <attr format="reference" name="ColorTyler"/>
+    <attr format="reference" name="ColorWindowBackground"/>
+    <attr format="reference|color" name="ConfirmationDialogBackground"/>
+    <attr format="reference|color" name="ConfirmationTextColor"/>
+    <attr format="reference|color" name="HudTextColor"/>
+    <attr format="reference|color" name="InputBackground"/>
+    <attr format="color" name="LightBackground"/>
+    <attr format="reference" name="PredefinedAccountBackground"/>
+    <attr format="reference|color" name="ProgressbarSpinnerColor"/>
+    <attr format="reference|color" name="RippleColor"/>
+    <attr format="reference|color" name="RoundRippleColor"/>
+    <attr format="reference|color" name="SecondaryButtonEndGradient"/>
+    <attr format="reference|color" name="SecondaryButtonStartGradient"/>
+    <attr format="reference" name="ShadingBottomGradient"/>
+    <attr format="reference|color" name="SwipeRefreshBackgroundColor"/>
+    <attr format="reference|color" name="TextColorBarsToDark"/>
+    <attr format="reference|color" name="TextColorGreyLightToDark"/>
+    <attr format="reference|color" name="TextDimmable"/>
+    <attr format="reference|color" name="TitleColor"/>
+    <attr format="reference|color" name="TransactionDetailBackground"/>
+    <attr format="reference|color" name="TransactionDetailBottomBarBackground"/>
+    <attr format="reference|color" name="TransactionDetailValueTextColor"/>
+    <attr format="reference|color" name="TransactionItemBackgroundColor"/>
+    <color name="black">#000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="dark">#13151a</color>
+    <color name="dark_80">#CC13151A</color>
+    <color name="darkest">#0f1014</color>
+    <color name="green_50">#8013D670</color>
+    <color name="green_d">#05C46B</color>
+    <color name="green_l">#04AD5F</color>
+    <color name="grey">#808085</color>
+    <color name="grey_50">#80808085</color>
+    <color name="issyk_blue">#1a60ff</color>
+    <color name="light">#f5f5f5</color>
+    <color name="light_grey">#c8c7cc</color>
+    <color name="red_d">#ff4820</color>
+    <color name="red_l">#ed402e</color>
+    <color name="ripple_black">#1f000000</color>
+    <color name="ripple_white">#b2ffffff</color>
+    <color name="steel_10">#1a6E7899</color>
+    <color name="steel_20">#336E7899</color>
+    <color name="steel_dark">#252933</color>
+    <color name="steel_dark_pressed">#353842</color>
+    <color name="steel_light">#ebebf0</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="white_pressed">#e3e4e8</color>
+    <color name="yellow_50">#DA1338</color>
+    <color name="yellow_d">#DD1B40</color>
+    <color name="yellow_l">#EA173F</color>
+    <dimen name="app_bar_height_tall">100dp</dimen>
+    <integer name="animation_duration">240</integer>
+    <style name="AlertDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowMinWidthMinor">85%</item>
+        <item name="android:windowMinWidthMajor">65%</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateHidden</item>
+    </style>
+    <style name="Body">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="BottomDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+        <item name="android:windowSoftInputMode">adjustResize|stateHidden</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/BottomDialogMediumAnimations</item>
+    </style>
+    <style name="BottomDialogFullScreen" parent="Theme.AppCompat.Dialog">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">?ColorWindowBackground</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="BottomDialogLargeAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_from_bottom_long</item>
+        <item name="android:windowExitAnimation">@anim/slide_to_bottom_long</item>
+    </style>
+    <style name="BottomDialogMediumAnimations">
+        <item name="android:windowEnterAnimation">@anim/slide_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_to_bottom</item>
+    </style>
+    <style name="Button" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/button_text_color_selector</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingTop">13dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:letterSpacing">-0.02</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="ButtonPrimaryDestructive" parent="Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/button_red_background</item>
+    </style>
+    <style name="ButtonPrimaryGreen" parent="Button">
+        <item name="android:background">@drawable/button_green_background</item>
+    </style>
+    <style name="ButtonPrimarySteel" parent="Button">
+        <item name="android:background">@drawable/button_steel_background</item>
+    </style>
+    <style name="ButtonPrimaryYellow" parent="Button">
+        <item name="android:background">@drawable/button_yellow_background</item>
+    </style>
+    <style name="ButtonPrivacySettings">
+        <item name="android:background">@drawable/button_privacy_settings_background</item>
+        <item name="android:textColor">@color/button_transparent_text_color</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">11dp</item>
+        <item name="android:paddingEnd">11dp</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="ButtonSecondary">
+        <item name="android:background">@drawable/button_secondary_background</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingTop">5.5dp</item>
+        <item name="android:paddingBottom">5.5dp</item>
+        <item name="android:textColor">@color/button_secondary_text_color_selector</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ButtonTransparent" parent="ButtonSecondary">
+        <item name="android:background">@drawable/button_transparent_background</item>
+        <item name="android:textColor">@color/button_transparent_text_color</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:paddingTop">4.5dp</item>
+        <item name="android:paddingBottom">4.5dp</item>
+    </style>
+    <style name="Caption">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="CaptionSB">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="Checkbox">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">top</item>
+        <item name="android:buttonTint">@color/stateful_checkbox_color</item>
+        <item name="android:paddingTop">4dp</item>
+    </style>
+    <style name="Headline1">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Headline2">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="ImageButtonSecondary" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:paddingEnd">4dp</item>
+        <item name="android:paddingStart">4dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:background">@drawable/button_secondary_background</item>
+    </style>
+    <style name="ImportantText">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/background_important_text</item>
+        <item name="android:textColor">?ColorOz</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+    <style name="LauncherTheme" parent="Theme.AppTheme">
+        <item name="android:windowBackground">@color/dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Micro">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="OnboardingTheme" parent="Theme.AppTheme.DayNight">
+        <item name="android:windowBackground">@color/darkest</item>
+    </style>
+    <style name="RightDialogAnimations">
+        <item name="android:windowEnterAnimation">@anim/slide_from_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_to_right</item>
+    </style>
+    <style name="Subhead1">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Subhead2">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="SubheadItalic">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="SwitchTheme" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorControlActivated">?ColorRemus</item>
+        <item name="colorControlNormal">@color/grey</item>
+        <item name="colorSwitchThumbNormal">@color/grey</item>
+        <item name="android:colorForeground">@color/grey</item>
+    </style>
+    <style name="TabComponent" parent="ButtonTransparent">
+        <item name="android:layout_marginStart">4dp</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+    </style>
+    <style name="TermsCheckbox" parent="Checkbox">
+        <item name="android:textColor">?ColorLeah</item>
+        <item name="android:paddingStart">24dp</item>
+    </style>
+    <style name="TextFlatButton">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/stateful_button_lightgrey_color</item>
+        <item name="android:background">@drawable/stateful_button_jeremy_color</item>
+    </style>
+    <style name="TextLabel">
+        <item name="android:background">@drawable/label_background</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:paddingStart">4dp</item>
+        <item name="android:paddingEnd">4dp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+    <style name="Theme.AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorAccent">@color/yellow_l</item>
+        <item name="buttonStyle">@style/Button</item>
+        <item name="android:windowBackground">@drawable/light_gradient_background</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:actionMenuTextAppearance">@style/Headline2</item>
+        <item name="actionMenuTextColor">@color/stateful_button_yellow_color</item>
+        <item name="colorControlNormal">@color/grey</item>
+        <item name="colorControlActivated">@color/yellow_l</item>
+        <item name="colorControlHighlight">#6E7899</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_back</item>
+
+        <item name="BallanceCoinNameColor">@color/dark</item>
+        <item name="BallanceCoinAmountColor">@color/dark</item>
+        <item name="TitleColor">@color/dark</item>
+        <item name="TextDimmable">@color/dimmable_dark</item>
+        <item name="TextColorGreyLightToDark">@color/dark</item>
+        <item name="TextColorBarsToDark">@color/dark</item>
+        <item name="AboutBackgroundColor">@color/white</item>
+        <item name="TransactionItemBackgroundColor">@color/transaction_item_background_light</item>
+        <item name="CoinItemBackground">@drawable/coinholder_bg_light</item>
+        <item name="PredefinedAccountBackground">@drawable/predefined_account_background_light</item>
+        <item name="BottomNavigationBackgroundColor">@color/light</item>
+        <item name="RippleColor">@color/ripple_black</item>
+        <item name="RoundRippleColor">@color/light_grey</item>
+        <item name="BottomNavBackground">@drawable/shadow_bottom_navigation_light</item>
+        <item name="TransactionDetailBackground">@color/white</item>
+        <item name="TransactionDetailValueTextColor">@color/dark</item>
+        <item name="TransactionDetailBottomBarBackground">#f5fafafa</item>
+        <item name="LightBackground">@color/steel_light</item>
+        <item name="BottomSendButtonColor">@color/steel_light</item>
+        <item name="BottomSendButtonHighlightedColor">@color/light_grey</item>
+        <item name="BottomSendImageButtonTint">@color/black</item>
+        <item name="BottomDialogTextColor">@color/black</item>
+        <item name="ConfirmationDialogBackground">@color/light</item>
+        <item name="AddressBackground">@color/address_background_light</item>
+        <item name="ProgressbarSpinnerColor">@color/light</item>
+        <item name="SwipeRefreshBackgroundColor">@color/light</item>
+        <item name="InputBackground">@color/white</item>
+        <item name="ConfirmationTextColor">@color/dark</item>
+        <item name="AddCoinButtonPlaceholder">@color/light</item>
+        <item name="ShadingBottomGradient">@drawable/rates_gradient_light</item>
+        <item name="SecondaryButtonStartGradient">#ffffffff</item>
+        <item name="SecondaryButtonEndGradient">#00ffffff</item>
+
+        <!-- New colors: for icons & text -->
+        <item name="ColorJacob">@color/yellow_l</item>
+        <item name="ColorJacobPressed">@color/yellow_d</item>
+        <item name="ColorRemus">@color/green_l</item>
+        <item name="ColorLucian">@color/red_l</item>
+        <item name="ColorLucianPressed">@color/red_d</item>
+        <item name="ColorOz">@color/dark</item>
+        <item name="ColorLeah">@color/steel_dark</item>
+        <item name="ColorBran">@color/dark</item>
+        <!-- New colors: for backgrounds -->
+        <item name="ColorJeremy">@color/steel_light</item>
+        <item name="ColorElena">@color/light_grey</item>
+        <item name="ColorLawrence">@color/white</item>
+        <item name="ColorLawrencePressed">@color/white_pressed</item>
+        <item name="ColorClaude">@color/white</item>
+        <item name="ColorGwen">@drawable/light_gradient_background</item>
+        <item name="ColorNina">@color/black_50</item>
+        <item name="ColorTyler">@color/light</item>
+        <item name="ColorRaina">@color/white_50</item>
+        <!--  Gradient colors-->
+        <item name="ColorGradientWhite">@color/white</item>
+        <item name="ColorWindowBackground">@drawable/light_gradient_background</item>
+    </style>
+    <style name="Theme.AppTheme.DayNight" parent="Theme.AppTheme"/>
+    <style name="Title1">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">38sp</item>
+        <item name="android:textColor">?TitleColor</item>
+    </style>
+    <style name="Title2">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">?TitleColor</item>
+    </style>
+    <style name="Title2R">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">32sp</item>
+    </style>
+    <style name="Title3">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">?TitleColor</item>
+    </style>
+    <style name="ToolbarStyle">
+        <item name="colorControlNormal">?ColorJacob</item>
+    </style>
+    <declare-styleable name="ChartIndicatorView">
+        <attr name="title"/>
+    </declare-styleable>
+    <declare-styleable name="ManageAccountView">
+        <attr name="title"/>
+        <attr format="boolean" name="arrow"/>
+        <attr format="boolean" name="attention"/>
+        <attr format="boolean" name="roundBottom"/>
+        <attr format="reference|color" name="textColor"/>
+    </declare-styleable>
+    <declare-styleable name="MultipleInputEditTextView">
+        <attr format="boolean" name="inputFromQRCode"/>
+        <attr format="boolean" name="inputFromClipboard"/>
+        <attr format="string" name="inputHint"/>
+        <attr format="integer" name="inputMaxLines"/>
+    </declare-styleable>
+    <declare-styleable name="SettingsView">
+        <attr format="reference" name="icon"/>
+        <attr name="title"/>
+        <attr name="subtitle"/>
+        <attr format="string" name="value"/>
+        <attr format="boolean" name="bottomBorder"/>
+        <attr format="boolean" name="showArrow"/>
+    </declare-styleable>
+    <declare-styleable name="SettingsViewDropdown">
+        <attr name="icon"/>
+        <attr name="title"/>
+        <attr name="subtitle"/>
+        <attr name="value"/>
+        <attr name="bottomBorder"/>
+    </declare-styleable>
+    <declare-styleable name="SettingsViewSwitch">
+        <attr name="icon"/>
+        <attr name="title"/>
+        <attr name="subtitle"/>
+        <attr name="bottomBorder"/>
+    </declare-styleable>
+</resources>

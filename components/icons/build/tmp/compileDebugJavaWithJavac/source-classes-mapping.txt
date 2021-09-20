@@ -1,0 +1,2 @@
+io/horizontalsystems/icons/BuildConfig.java
+ io.horizontalsystems.icons.BuildConfig

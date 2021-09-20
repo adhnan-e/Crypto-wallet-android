@@ -1,0 +1,2 @@
+io/horizontalsystems/keystore/BuildConfig.java
+ io.horizontalsystems.keystore.BuildConfig
